@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+ENV/
+
+# Caches and runtime
+.terabox_cookie
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
