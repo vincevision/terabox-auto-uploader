@@ -1,4 +1,4 @@
-# TeraBox Auto-Uploader
+# TeraBox Auto-Uploader (by VICENT)
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
